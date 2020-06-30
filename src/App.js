@@ -8,8 +8,8 @@ function App() {
       <div className="wrapper">
         <div className="menu">
           <ul>
-            <li></li>
-          </ul>
+            <li> </li>
+          </ul> 
         </div> 
         <div className="content">
           d
